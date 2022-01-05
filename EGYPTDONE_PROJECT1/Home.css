@@ -1,0 +1,53 @@
+header {
+  text-align: center;
+  background-color: #f6d860;
+  height: 100px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  text-decoration: none;
+  color: black;
+  font-family: "Times New Roman";
+}
+
+a:hover {
+  background-color: #d98c00;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}
+
+section {
+  background-color: #f4eea9;
+  display: inline-block;
+}
+
+h2 {
+  font-style: italic;
+  font-family: "Times New Roman";
+  padding-left: 2cm;
+}
+
+p {
+  font-family: "Times New Roman";
+  padding-left: 3cm;
+}
+
+.img1 {
+  padding-left: 3cm;
+  width: 280px;
+  height: 180px;
+}
+
+footer {
+  background-color: #ffce45;
+}
+
+.footp {
+  display: flex;
+  padding-right: 2cm;
+}

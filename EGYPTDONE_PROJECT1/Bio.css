@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  background-color: #f6d860;
+  height: 100px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  text-decoration: none;
+  color: black;
+  font-family: "Times New Roman";
+}
+
+a:hover {
+  background-color: #d98c00;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}
+
+section {
+  display: inline-block;
+  background-color: #fff9b6;
+  font-size: large;
+  font-family: "Times New Roman";
+  padding-left: 2cm;
+  padding-top: 2cm;
+  padding-right: 2cm;
+  line-height: 1cm;
+}

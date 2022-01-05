@@ -1,0 +1,31 @@
+.pic {
+  display: inline-block;
+  padding-left: 3cm;
+  padding-right: 2cm;
+  background-color: #fff9b6;
+  padding-top: 1.4cm;
+  padding-bottom: 1.4cm;
+}
+
+header {
+  text-align: center;
+  background-color: #f6d860;
+  height: 100px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  text-decoration: none;
+  color: black;
+  font-family: "Times New Roman";
+}
+
+a:hover {
+  background-color: #d98c00;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}

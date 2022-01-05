@@ -1,0 +1,57 @@
+header {
+  text-align: center;
+  background-color: #f6d860;
+  height: 100px;
+}
+
+a {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  text-decoration: none;
+  color: black;
+  font-family: "Times New Roman";
+}
+
+a:hover {
+  background-color: #d98c00;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}
+
+form {
+  padding-top: 2cm;
+  background-color: #fff9b6;
+  padding-bottom: 5cm;
+  text-align: center;
+}
+
+#Rate {
+  font-size: Large;
+  padding-top: 0.7cm;
+  padding-bottom: 0.7 cm;
+}
+
+#Name {
+  font-size: Large;
+  padding-top: 0.7cm;
+  padding-bottom: 0.7cm;
+}
+
+#FEED {
+  font-size: Large;
+  padding-top: 0.7cm;
+  padding-bottom: 0.7cm;
+}
+
+button {
+  background-color: #d98c00;
+  color: black;
+  font-family: "Times New Roman";
+  width: 110px;
+  height: 40px;
+  font-size: large;
+  cursor: pointer;
+}
